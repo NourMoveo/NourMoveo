@@ -6,6 +6,6 @@
 
 <p align="left">📂 Each project/task has its folder with code, documentation, and resources. Feel free to explore and share feedback.</p>
 
-<p align="left">🌟 **Ready for this coding adventure! Reach out for questions, suggestions, or just a chat about coding [@NourMoveo](https://github.com/NourMoveo).</p>
+<p align="left">🌟 Ready for this coding adventure! Reach out for questions, suggestions, or just a chat about coding [@NourMoveo](https://github.com/NourMoveo).</p>
 
 <p align="center"><strong>Happy coding!</strong> 🚀✨</p>
